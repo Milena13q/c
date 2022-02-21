@@ -1,0 +1,15 @@
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\bin\Debug\net6.0\№1 оригин.exe
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\bin\Debug\net6.0\№1 оригин.deps.json
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\bin\Debug\net6.0\№1 оригин.runtimeconfig.json
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\bin\Debug\net6.0\№1 оригин.dll
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\bin\Debug\net6.0\ref\№1 оригин.dll
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\bin\Debug\net6.0\№1 оригин.pdb
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\№1 оригин.csproj.AssemblyReference.cache
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\№1 оригин.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\№1 оригин.AssemblyInfoInputs.cache
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\№1 оригин.AssemblyInfo.cs
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\№1 оригин.csproj.CoreCompileInputs.cache
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\№1 оригин.dll
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\ref\№1 оригин.dll
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\№1 оригин.pdb
+D:\Учеба\Предметы\C#\ЛАБ Р1\№1 оригин\№1 оригин\obj\Debug\net6.0\№1 оригин.genruntimeconfig.cache
